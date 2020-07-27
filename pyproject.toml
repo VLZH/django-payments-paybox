@@ -3,6 +3,8 @@ name = "django-payments-paybox"
 version = "0.1.0"
 description = "django-payments provider for PayBox.money"
 authors = ["vlzh <vlzh@pm.me>"]
+repository="https://github.com/vlzh/django-payments-paybox"
+readme="README.md"
 
 [tool.poetry.dependencies]
 python = "^3.6"
