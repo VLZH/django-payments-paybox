@@ -1,0 +1,7 @@
+.vscode
+/.venv
+/dist
+__pycache__
+.mypy_cache
+*.egg-info
+pip-wheel-metadata
