@@ -1,5 +1,8 @@
 # django-payments-paybox
 
+> ⚠️⚠️⚠️ Not Ready
+> This package in development. Do not use it.
+
 This is [django-payments](https://github.com/mirumee/django-payments) provider for [PayBox.money](https://paybox.money/).
 
 # Installation
@@ -16,7 +19,7 @@ poetry add django-payments-paybox
 
 ## Dependencies
 
-This project require next deps:
+This package require next deps:
 
 - `django-payments`
 
